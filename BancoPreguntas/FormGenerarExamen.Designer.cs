@@ -29,7 +29,6 @@ namespace BancoPreguntas
             this.txtAsignatura.Name = "txtAsignatura";
             this.txtAsignatura.Size = new System.Drawing.Size(260, 20);
             this.txtAsignatura.TabIndex = 0;
-            this.txtAsignatura.PlaceholderText = "Asignatura";
             // 
             // txtUnidades
             // 
@@ -37,7 +36,6 @@ namespace BancoPreguntas
             this.txtUnidades.Name = "txtUnidades";
             this.txtUnidades.Size = new System.Drawing.Size(260, 20);
             this.txtUnidades.TabIndex = 1;
-            this.txtUnidades.PlaceholderText = "Unidades (separadas por coma)";
             // 
             // btnGenerar
             // 

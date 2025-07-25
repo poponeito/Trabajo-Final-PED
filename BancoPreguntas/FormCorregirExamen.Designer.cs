@@ -35,7 +35,6 @@ namespace BancoPreguntas
             this.txtExamenId.Name = "txtExamenId";
             this.txtExamenId.Size = new System.Drawing.Size(200, 20);
             this.txtExamenId.TabIndex = 0;
-            this.txtExamenId.PlaceholderText = "Id Examen";
             // 
             // btnCargar
             // 
@@ -61,7 +60,6 @@ namespace BancoPreguntas
             this.txtRespuestas.Name = "txtRespuestas";
             this.txtRespuestas.Size = new System.Drawing.Size(360, 20);
             this.txtRespuestas.TabIndex = 3;
-            this.txtRespuestas.PlaceholderText = "Respuestas separadas por coma";
             // 
             // txtAlumno
             // 
@@ -69,7 +67,6 @@ namespace BancoPreguntas
             this.txtAlumno.Name = "txtAlumno";
             this.txtAlumno.Size = new System.Drawing.Size(360, 20);
             this.txtAlumno.TabIndex = 4;
-            this.txtAlumno.PlaceholderText = "Apellido y nombre";
             // 
             // btnCorregir
             // 
