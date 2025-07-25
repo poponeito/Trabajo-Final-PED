@@ -1,0 +1,5 @@
+# Archivos generados
+bin/
+obj/
+*.user
+*.suo
